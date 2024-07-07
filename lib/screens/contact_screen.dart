@@ -40,7 +40,7 @@ class ContactScreen extends StatelessWidget {
                   delay: Duration(milliseconds: 200),
                   child: _buildContactCard(
                     icon: Icons.person,
-                    title: 'Your Name',
+                    title: 'Name',
                     subtitle: 'Youssef Lafkih',
                   ),
                 ),
@@ -59,7 +59,7 @@ class ContactScreen extends StatelessWidget {
                   child: _buildContactCard(
                     icon: Icons.phone,
                     title: 'Phone',
-                    subtitle: '+212 6 12 34 56 78',
+                    subtitle: '+212 6 57 34 56 78',
                   ),
                 ),
                 FadeInLeft(
@@ -68,7 +68,7 @@ class ContactScreen extends StatelessWidget {
                   child: _buildContactCard(
                     icon: Icons.location_on,
                     title: 'Address',
-                    subtitle: 'Your Address, City, Country',
+                    subtitle: 'Casablanca, Morocco',
                   ),
                 ),
                 SizedBox(height: 30),
