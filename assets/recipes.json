@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Tagine",
+        "image": "assets/images/tagine.png",
+        "subtitle": "Traditional Moroccan Dish",
+        "time": "2 hours",
+        "rating": "4.5/5",
+        "description": "Tagine is a slow-cooked stew made with meat, vegetables, and aromatic spices. It is typically cooked in a clay pot called a tagine and served with couscous."
+    },
+    {
+        "title": "Harira",
+        "image": "assets/images/harira.jpeg",
+        "subtitle": "Traditional Moroccan Soup",
+        "time": "1 hour",
+        "rating": "4.7/5",
+        "description": "Harira is a hearty soup made with tomatoes, lentils, chickpeas, and a blend of spices. It is often enjoyed during Ramadan as a starter to break the fast."
+    },
+    {
+        "title": "Couscous",
+        "image": "assets/images/couscous.png",
+        "subtitle": "Moroccan Staple Dish",
+        "time": "3 hours",
+        "rating": "5/5",
+        "description": "Couscous is a staple in Moroccan cuisine. It is made from semolina grains and typically served with a variety of vegetables, meat, and a flavorful sauce."
+    },
+    {
+        "title": "Pastilla",
+        "image": "assets/images/Pastilla.png",
+        "subtitle": "Traditional Moroccan Pastry",
+        "time": "3.5 hours",
+        "rating": "4.8/5",
+        "description": "Pastilla is a savory pastry filled with a mixture of meat, eggs, and spices. It is typically topped with powdered sugar and cinnamon and served as a special dish during festive occasions."
+    },
+    {
+        "title": "Msemen",
+        "image": "assets/images/msemen.png",
+        "subtitle": "Moroccan Pancake",
+        "time": "1 hour",
+        "rating": "4.3/5",
+        "description": "Msemen is a traditional Moroccan pancake made from a dough of flour, semolina, and oil. It is typically served with honey or jam for breakfast or as a snack."
+    },
+    {
+        "title": "Zaalouk",
+        "image": "assets/images/zaalouk.png",
+        "subtitle": "Moroccan Eggplant Dip",
+        "time": "1 hour",
+        "rating": "4.6/5",
+        "description": "Zaalouk is a flavorful dip made from roasted eggplant, tomatoes, garlic, and a blend of spices. It is typically served as an appetizer with bread or as a side dish."
+    },
+    {
+        "title": "Briouats",
+        "image": "assets/images/briouats.png",
+        "subtitle": "Moroccan Stuffed Pastries",
+        "time": "2.5 hours",
+        "rating": "4.4/5",
+        "description": "Briouats are crispy pastries filled with a variety of ingredients such as meat, cheese, or vegetables. They are typically served as an appetizer or snack."
+    },
+    {
+        "title": "Mint Tea",
+        "image": "assets/images/mint_tea.png",
+        "subtitle": "Traditional Moroccan Drink",
+        "time": "15 minutes",
+        "rating": "4.9/5",
+        "description": "Mint tea, also known as Moroccan tea or Maghrebi mint tea, is a traditional drink in Moroccan culture. It is made with green tea, fresh mint leaves, and sugar."
+    },
+    {
+        "title": "Mrouzia",
+        "image": "assets/images/mrouzia.png",
+        "subtitle": "Traditional Moroccan Dish",
+        "time": "3 hours",
+        "rating": "4.7/5",
+        "description": "Mrouzia is a sweet and savory dish made with lamb, honey, almonds, and a blend of spices. It is typically served during festive occasions such as Eid al-Adha."
+    },
+    {
+        "title": "Chebakia",
+        "image": "assets/images/chebakia.png",
+        "subtitle": "Moroccan Sesame Cookies",
+        "time": "5 hours",
+        "rating": "4.5/5",
+        "description": "Chebakia is a traditional Moroccan cookie made from a dough of flour, sesame seeds, honey, and a blend of spices. It is typically enjoyed during Ramadan."
+    },
+    {
+        "title": "Makouda",
+        "image": "assets/images/makouda.png",
+        "subtitle": "Moroccan Potato Fritters",
+        "time": "45 minutes",
+        "rating": "4/5",
+        "description": "Makouda is a popular street food in Morocco. It is made from mashed potatoes mixed with spices, formed into patties, and deep-fried until crispy."
+    }
+]
